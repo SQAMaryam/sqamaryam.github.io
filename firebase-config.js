@@ -1,11 +1,10 @@
-// Paste your Firebase web app settings between the { } below.
-// Firebase console -> Project settings (gear icon) -> Your apps -> Web app -> "SDK setup and configuration" -> Config.
-// Leave it empty and the app still works, but saves to each phone only.
+// Firebase settings for Makan Mana? group sync.
 window.FIREBASE_CONFIG = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: ""
+  apiKey: "AIzaSyABRlkpKqh9g0zkkVGZS5gyGWXW_qZOom8",
+  authDomain: "makan-mana-f48d0.firebaseapp.com",
+  projectId: "makan-mana-f48d0",
+  storageBucket: "makan-mana-f48d0.firebasestorage.app",
+  messagingSenderId: "549997392873",
+  appId: "1:549997392873:web:1296efff325715ec03d178",
+  measurementId: "G-YCJJTEMS75"
 };
